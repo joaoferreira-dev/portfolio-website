@@ -68,16 +68,16 @@ export default function About() {
               
               <div className="mb-12">
                 <p className="text-text-secondary leading-relaxed mb-4">
-                  I'm a passionate Software Engineer with expertise in building modern web applications. 
+                  I&apos;m a passionate Software Engineer with expertise in building modern web applications.
                   I focus on creating clean, maintainable code and exceptional user experiences.
                 </p>
                 <p className="text-text-secondary leading-relaxed mb-4">
-                  With several years of experience in full-stack development, I've worked on various projects 
-                  ranging from startups to enterprise applications. I enjoy solving complex problems and 
+                  With several years of experience in full-stack development, I&apos;ve worked on various projects
+                  ranging from startups to enterprise applications. I enjoy solving complex problems and
                   continuously learning new technologies.
                 </p>
                 <p className="text-text-secondary leading-relaxed">
-                  When I'm not coding, you can find me exploring new technologies, contributing to open-source 
+                  When I&apos;m not coding, you can find me exploring new technologies, contributing to open-source
                   projects, or sharing knowledge with the developer community.
                 </p>
               </div>
