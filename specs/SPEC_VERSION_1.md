@@ -270,11 +270,11 @@ portfolio-website/
 - ✅ Phase 2: Design System Setup - Completed
 - ✅ Phase 3: Core Components - Completed
 - ✅ Phase 4: Page Implementation - Completed
-- ✅ Phase 5: SEO Optimization - Completed
-- ✅ Phase 6: Testing & Deployment - Completed
+- ⏳ Phase 5: SEO Optimization - In Progress
+- ⏳ Phase 6: Testing & Deployment - In Progress
 
 ## Deployment Ready
-The website is ready for deployment to Vercel. Before deploying:
+This repository is currently being used as a workflow testing placeholder and is not deployment-ready. Before deploying:
 1. Update domain from joaoferreira.dev to actual domain
 2. Add real project details to Projects page
 3. Update GitHub, LinkedIn, and email links in About page

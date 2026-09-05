@@ -100,8 +100,8 @@ export default function About() {
                 Experience
               </h2>
               <div className="space-y-6 mb-12">
-                {experience.map((exp, index) => (
-                  <Card key={index} className="h-full">
+                {experience.map((exp) => (
+                  <Card key={`${exp.company}-${exp.title}`} className="h-full">
                     <h3 className="font-serif text-xl font-medium mb-2">
                       {exp.title}
                     </h3>

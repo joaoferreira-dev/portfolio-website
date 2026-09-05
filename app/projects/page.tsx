@@ -63,8 +63,8 @@ export default function Projects() {
               </p>
               
               <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
-                {projects.map((project, index) => (
-                  <Card key={index} className="flex flex-col h-full">
+                {projects.map((project) => (
+                  <Card key={project.title} className="flex flex-col h-full">
                     <h3 className="font-serif text-xl font-medium mb-3">
                       {project.title}
                     </h3>
