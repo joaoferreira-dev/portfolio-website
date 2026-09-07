@@ -86,6 +86,9 @@ jobs:
     needs: [build-and-test, deploy-to-vercel-dev]
     runs-on: ubuntu-latest
     if: github.event_name == 'push' && github.ref == 'refs/heads/develop'
+    permissions:
+      contents: write
+      pull-requests: write
     
     steps:
       - name: Checkout code
